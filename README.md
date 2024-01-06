@@ -15,6 +15,12 @@ Este é um projeto simples que fornece uma API de tradução em Python usando Fl
    ```bash
    git clone https://github.com/seu-usuario/api-traducao-python.git
 
+   # Acesse o diretório do projeto
+   cd api-traducao-python
+
+   # Instale as dependências
+   pip install -r requirements.txt
+
 
 # Execução
   python app.py
