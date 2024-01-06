@@ -13,7 +13,7 @@ Este é um projeto simples que fornece uma API de tradução em Python usando Fl
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/api-traducao-python**.git
+   git clone https://github.com/seu-usuario/api-traducao-python.git
 
 
 # Execução
